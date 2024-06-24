@@ -27,7 +27,7 @@ h1 {
     font-size: 22px;
     padding: 5px 15px;
     font-weight: 700;
-    padding-top: 10px;
+    padding-top: 20px;
 }
 
 p {
@@ -61,7 +61,7 @@ footer {
     height: 497px;
     background-color: white;
     margin: auto;
-    margin-top: 155px;
+    margin-top: 150px;
     border-radius: 20px;
     display: block;
 
@@ -75,7 +75,7 @@ img {
     margin: auto;
     position: relative;
     left: 5%;
-    top: 12px;
+    top: 15px;
 }
 
 /* 7. Media Queries
