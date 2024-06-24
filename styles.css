@@ -50,7 +50,9 @@ h1, p {
 ======================================== */
 /* Site Navigation */
 /* Site Footer */
-
+footer {
+    padding-top: 70px;
+}
 
 /* 5. Component Styles
 ======================================== */
@@ -58,7 +60,8 @@ h1, p {
     width: 320px;
     height: 497px;
     background-color: white;
-    margin: 155px auto;
+    margin: auto;
+    margin-top: 175px;
     border-radius: 20px;
     display: block;
 
