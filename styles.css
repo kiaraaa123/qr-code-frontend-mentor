@@ -1,0 +1,79 @@
+/* Site Stylesheet
+  1. Global Styles
+  2. Typography Styles
+  3. Structure Styles
+  4. Module Styles
+  5. Component Styles
+  6. Page Styles
+  7. Media Queries
+======================================== */
+
+/* 1. Global Styles
+======================================== */
+* {
+    --blue: #2C7DFA;
+    --darknavy: #1F314F;
+    --grey: #7D889E;
+    --lightgrey: #D5E1EF;
+}
+
+body {
+    background-color: var(--lightgrey);
+}
+
+/* 2. Typography Styles
+======================================== */
+h1 {
+    font-size: 22px;
+    padding: 5px 15px;
+    font-weight: 700;
+    padding-top: 10px;
+}
+
+p {
+    font-size: 15px;
+    color: var(--grey);
+    padding: 5px 25px;
+    font-weight: 400;
+}
+
+h1, p {
+    text-align: center;
+    font-family: Outfit;
+}
+
+/* 3. Structure Styles
+======================================== */
+
+
+/* 4. Modules Styles
+======================================== */
+/* Site Navigation */
+/* Site Footer */
+
+
+/* 5. Component Styles
+======================================== */
+.card {
+    width: 320px;
+    height: 497px;
+    background-color: white;
+    margin: 110px auto;
+    border-radius: 20px;
+    display: block;
+
+}
+
+/* 6. Page Styles
+======================================== */
+img {
+    width: 288px;
+    border-radius: 10px;
+    margin: auto;
+    position: relative;
+    left: 5%;
+    top: 12px;
+}
+
+/* 7. Media Queries
+======================================== */
